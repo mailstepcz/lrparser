@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phomola/textkit"
+	"github.com/mailstepcz/textkit"
 )
 
 // Rule is a context-free rule with a builder function.

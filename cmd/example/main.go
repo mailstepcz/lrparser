@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/phomola/lrparser"
-	"github.com/phomola/textkit"
+	"github.com/mailstepcz/lrparser"
+	"github.com/mailstepcz/textkit"
 )
 
 func main() {

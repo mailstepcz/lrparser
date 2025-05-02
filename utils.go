@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/phomola/textkit"
+	"github.com/mailstepcz/textkit"
 )
 
 // CoalesceSymbols joins symbols together.

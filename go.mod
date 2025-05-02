@@ -1,5 +1,5 @@
-module github.com/phomola/lrparser
+module github.com/mailstepcz/lrparser
 
-go 1.20
+go 1.24
 
-require github.com/phomola/textkit v0.1.6
+require github.com/mailstepcz/textkit v0.1.6

@@ -15,4 +15,5 @@ gr := lrparser.NewGrammar(lrparser.MustBuildRules([]*lrparser.SynSem{
 	{Syn: `ConstExpr -> integer`, Sem: func(args []any) any { return args[0] }},
 }))
 ```
-See [`cmd/example`](https://github.com/phomola/lrparser/blob/master/cmd/example/main.go)
+See [`cmd/example`](https://github.com/mailstepcz/lrparser/blob/master/cmd/example/main.go)
+or original [`cmd/example`](https://github.com/phomola/lrparser/blob/master/cmd/example/main.go)
